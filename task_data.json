@@ -1,0 +1,11 @@
+{
+    "Tasks": [
+        {
+            "id": 0,
+            "title": "First Task",
+            "desc": "This is your task description. Delete this task using the ID 0.",
+            "due_date": "01-14-25",
+            "date_created": "2024-12-19"
+        }
+    ]
+}
