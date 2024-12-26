@@ -28,7 +28,11 @@ sudo python3 PATH/TO/exwtm.py
 # How to use ELWTM
 
 l - list all tasks.
+
 n - create a new task.
+
 d - to delete a task by task ID.
+
 q - to quit.
+
 h - help
